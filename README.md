@@ -27,6 +27,30 @@
 [license-shield]: https://img.shields.io/github/license/nhutnamhcmus/nlp_100_drill_exercises_solutions?style=flat
 [license-url]: https://github.com/nhutnamhcmus/nlp_100_drill_exercises_solutions/blob/master/LICENSE
 
+Lab Machine Learning Solution
+========
+
 Nguồn các bài tập thực hành này được fork từ [https://github.com/dinhvietcuong1996/Lab-MachineLearningCourse](https://github.com/dinhvietcuong1996/Lab-MachineLearningCourse) by [dinhvietcuong1996](https://github.com/dinhvietcuong1996)
 
-LICENSE: MIT
+Features
+--------
+- Code/ My understand explain for each course
+
+
+Contribute
+----------
+
+- Issue Tracker: github.com/nhutnamhcmus/lab-machine-learning-solution/issues
+- Source Code: github.com/nhutnamhcmus/lab-machine-learning-solution
+
+Support
+-------
+
+If you are having issues, please let us know.
+We have a mailing list located at: lenam.fithcmus@gmail.com
+
+License
+-------
+
+The project is licensed under the MIT license.
+
