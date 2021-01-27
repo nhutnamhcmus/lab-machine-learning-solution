@@ -27,15 +27,6 @@
 [license-shield]: https://img.shields.io/github/license/nhutnamhcmus/nlp_100_drill_exercises_solutions?style=flat
 [license-url]: https://github.com/nhutnamhcmus/nlp_100_drill_exercises_solutions/blob/master/LICENSE
 
-Repository chứa lời giải bài tập thực hành môn Nhập môn máy học, ở trường Đại học Khoa học Tự nhiên, khoa Toán-Tin, học kì 2 năm học 2019-2020.
-
 Nguồn các bài tập thực hành này được fork từ [https://github.com/dinhvietcuong1996/Lab-MachineLearningCourse](https://github.com/dinhvietcuong1996/Lab-MachineLearningCourse) by [dinhvietcuong1996](https://github.com/dinhvietcuong1996)
-
-Lời giải chỉ mang tính tham khảo, không đảm bảo tính đúng đắn vì mình thuộc khoa khác nên chỉ fork về và làm lại. Hãy làm theo cách của bạn để hiểu bản chất vấn đề.
-
-Thông tin author:
-- Họ tên đầy đủ (Fullname): Lê Nhựt Nam (Nhut-Nam Le)
-- Khoa (Faculty): Công nghệ Thông tin (Information Technology) - Bộ môn (Department): Khoa học máy tính (Computer Science)
-- Email: lenam.fithcmus@gmail.com - namle1232000@gmail.com - 18120061@student.hcmus.edu.vn
 
 LICENSE: MIT
