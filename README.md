@@ -15,17 +15,17 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/nhutnamhcmus/nlp_100_drill_exercises_solutions?style=flat
-[contributors-url]: https://github.com/nhutnamhcmus/nlp_100_drill_exercises_solutions/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/nhutnamhcmus/lab-machine-learning-solution?style=flat
+[contributors-url]: https://github.com/nhutnamhcmus/lab-machine-learning-solution/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/nhutnamhcmus/nlp_100_drill_exercises_solutions?style=flat
-[forks-url]: https://github.com/nhutnamhcmus/nlp_100_drill_exercises_solutions/network/members
+[forks-shield]: https://img.shields.io/github/forks/nhutnamhcmus/lab-machine-learning-solution?style=flat
+[forks-url]: https://github.com/nhutnamhcmus/lab-machine-learning-solution/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/nhutnamhcmus/nlp_100_drill_exercises_solutions?style=flat
-[stars-url]: https://github.com/nhutnamhcmus/nlp_100_drill_exercises_solutions/stargazers
+[stars-shield]: https://img.shields.io/github/stars/nhutnamhcmus/lab-machine-learning-solution?style=flat
+[stars-url]: https://github.com/nhutnamhcmus/lab-machine-learning-solution/stargazers
 
-[license-shield]: https://img.shields.io/github/license/nhutnamhcmus/nlp_100_drill_exercises_solutions?style=flat
-[license-url]: https://github.com/nhutnamhcmus/nlp_100_drill_exercises_solutions/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/nhutnamhcmus/lab-machine-learning-solution?style=flat
+[license-url]: https://github.com/nhutnamhcmus/lab-machine-learning-solution/blob/master/LICENSE
 
 Lab Machine Learning Solution
 ========
