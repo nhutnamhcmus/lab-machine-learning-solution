@@ -36,6 +36,16 @@ Features
 --------
 - Code/ My understand explain for each course
 
+|   |   |
+|---|---|
+| Lab 01  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab01/Lab01.ipynb)|
+| Lab 02  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab02/Lab02.ipynb)  |
+| Lab 03  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab03/Lab03.ipynb)  |
+| Lab 04  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab04/Lab04.ipynb)  |
+| Lab 05  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab05/Lab05.ipynb)  |
+| Lab 06  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab06/Lab06.ipynb)  |
+| Lab 07  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab08/Lab07.ipynb)  |
+| Lab 08  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/lab-machine-learning-solution//blob/main/Lab08/Lab08.ipynb)  |
 
 Contribute
 ----------
